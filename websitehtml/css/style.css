@@ -39,7 +39,7 @@ list-style-type: none;
 
 
 .main-nav{
-	float: right;
+	float: left;
 	margin-top: 60px;
 }
 
@@ -130,8 +130,6 @@ h1{
 
 .mobile-icon{display: none;}
 
-
-/*//////// Responsive queries //////////*/
 
 @media only screen and (max-width: 1180px){
 	.main-content-header{
